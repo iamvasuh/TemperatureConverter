@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JAVA FX APP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAVA_FX_APP_jar</output-path>
+    <root id="archive" name="JAVA FX APP.jar">
+      <element id="module-output" name="JAVA FX APP" />
+    </root>
+  </artifact>
+</component>
